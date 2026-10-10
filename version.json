@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "3.0.0",
-  "apk": "apk/LaCompra-3.0.0.apk",
-  "notes": "Rediseño completo, panel de añadir con cantidades y actualizaciones automáticas."
+  "versionCode": 5,
+  "versionName": "3.0.1",
+  "apk": "apk/LaCompra-3.0.1.apk",
+  "notes": "Logo nuevo: el carro."
 }
