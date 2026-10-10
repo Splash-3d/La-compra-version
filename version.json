@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "3.0.1",
-  "apk": "apk/LaCompra-3.0.1.apk",
-  "notes": "Logo nuevo: el carro."
+  "versionCode": 6,
+  "versionName": "3.0.2",
+  "apk": "apk/LaCompra-3.0.2.apk",
+  "notes": "Logo del carro también dentro de la app."
 }
