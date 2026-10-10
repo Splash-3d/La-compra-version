@@ -1,6 +1,1 @@
-{
-  "versionCode": 6,
-  "versionName": "3.0.2",
-  "apk": "apk/LaCompra-3.0.2.apk",
-  "notes": "Logo del carro también dentro de la app."
-}
+{"versionCode": 7, "versionName": "3.0.3", "apk": "apk/LaCompra-3.0.3.apk", "notes": "Ahora puedes sacar cosas del carro con el botón «Sacar» y deshacer si tocas sin querer. Botón de lápiz para editar."}
