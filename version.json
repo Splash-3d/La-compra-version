@@ -1,1 +1,1 @@
-{"versionCode": 10, "versionName": "3.3.0", "apk": "apk/LaCompra-3.3.0.apk", "notes": "Widget para la pantalla de inicio, comparte texto desde otras apps para añadir productos y gasto por mes."}
+{"versionCode": 11, "versionName": "3.3.1", "apk": "apk/LaCompra-3.3.1.apk", "notes": "Arreglos: «1,5 kg» ya no se parte en dos, el gasto no se duplica, diálogos que se pisaban y el + del widget abre el teclado."}
